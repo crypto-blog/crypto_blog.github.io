@@ -20,9 +20,9 @@ permalink:           none
 plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           'Crypto-Space |Blog'
-description:	       'I got you covered,here you can learn anything about crypto!'
-author:              'Gab'
+title: "Crypto-Space |Blog"
+description: "I got you covered,here you can learn anything about crypto!"
+author: "Gab"
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
