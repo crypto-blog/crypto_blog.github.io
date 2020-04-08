@@ -15,10 +15,8 @@ menu:
 social:
 - {icon: 'github', link: 'https://www.github.com/crypto-blog'}
 - {icon: 'twitter', link: 'https://twitter.com/leap-space'}
-- {icon: 'envelope', link: 'space.leap.gab@gmail.com'}
-- {icon: 'rss-square', link: '/feed.xml'}
 - {icon: 'telegram' , link: 'https://t.me/cryptodesknews'}
-- {icon: 'webiste' , link: 'htpps://gableap.carrd.io'}
+- {icon: 'link' , link: 'htpps://gableap.carrd.io'}
 # - {icon: 'rss-square', link: '/rss-feed.xml'}
 
 # Customize site text
