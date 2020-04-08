@@ -21,6 +21,7 @@ body {
   font-family: "PT Serif", Georgia, "Times New Roman", serif;
   font-size: 18px;
   background-image: url('MartianLookingAPlaneteffect.jpg');
+  background-color: #red;
   background-attachment: fixed;
   background-repeat: no-repeat;
   background-position: center;
