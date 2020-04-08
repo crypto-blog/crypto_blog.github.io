@@ -13,10 +13,11 @@ menu:
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
+- {icon: 'link' , url: 'htpps://gableap.carrd.io'}
 - {icon: 'github', link: 'https://www.github.com/crypto-blog'}
-- {icon: 'twitter', link: 'https://twitter.com/leap-space'}
+- {icon: 'twitter', link: 'https://twitter.com/leap_space'}
 - {icon: 'telegram' , link: 'https://t.me/cryptodesknews'}
-- {icon: 'link' , link: 'htpps://gableap.carrd.io'}
+
 # - {icon: 'rss-square', link: '/rss-feed.xml'}
 
 # Customize site text
