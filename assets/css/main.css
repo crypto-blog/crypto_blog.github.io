@@ -20,14 +20,26 @@
 body {
   font-family: "PT Serif", Georgia, "Times New Roman", serif;
   font-size: 18px;
-  background-image: url('MartianLookingAPlaneteffect.jpg');
-  background-color: #red;
+  color: #515151;
+  line-height: 1.75rem;
+}
+
+.container {
+   position: absolute;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+	}
+
+.hero {
+ height: 100%;
+ width: 100%;
+ background: url("https://crypto-blog/home/assets/img/MartianLookingAPlaneteffect.jpg");
+ background-size: cover;
   background-attachment: fixed;
   background-repeat: no-repeat;
-  background-position: center;
-  	
-	color: #515151;
-  line-height: 1.75rem;
+  background-position: center center;
 }
 
 @media (max-width: 30em) {
