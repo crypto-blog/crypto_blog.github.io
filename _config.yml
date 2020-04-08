@@ -1,28 +1,29 @@
 # Site Build Settings
-
 # Jekyll-paginate-v2 configuration
-#  pagination:
-#   enabled: true
-#   per_page: 5
-#   permalink: '/page/:num/'
-#   title: ':title - page :num of :max'
-#   limit: 0
-#   sort_field: 'date'
-#   sort_reverse: true
+pagination:
+ enabled: true
+ per_page: 5
+ permalink: '/page/:num/'
+ title: ':title - page :num of :max'
+ limit: 0
+ sort_field: 'date'
+ sort_reverse: true
 
 # jekyll-paginate configuration
-paginate:            5
+
+paginate: 5
 
 # Build settings
-markdown:            kramdown
-highlighter:         rouge
-permalink:           none
-plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
+markdown: kramdown
+highlighter: rouge
+permalink: none
+plugins: [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
+
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title: "Crypto-Space |Blog"
-description: "I got you covered,here you can learn anything about crypto!"
-author: "Gab"
+title: 'Crypto-Leap |Blog'
+description: 'I got you covered,here you can learn everything about crypto!'
+author: 'Gab'
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
