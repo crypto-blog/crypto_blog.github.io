@@ -142,14 +142,15 @@ hr {
 
 .post-container {
   margin-bottom: 4rem;
- background-color: #2c2a36;
- opacity: 0.5;
+ 
 }
 
 .posts {
   margin-bottom: 5rem;
   padding: 0px;
   list-style: none;
+	background-color:2c2a36;
+	opacity: 0.6;
 }
 
 .post-date {
