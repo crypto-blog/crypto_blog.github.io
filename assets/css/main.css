@@ -48,12 +48,12 @@ h1 a {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: "Quattrocento Sans", sans-serif;
-  color: #333;
+  color: #e6e6e6
 }
 
 a {
   text-decoration: underline;
-  color: #333;
+  color: #e6e6e6 ;
 }
 
 a:hover {
@@ -71,7 +71,7 @@ blockquote {
   margin: 10px 20px 10px;
   padding: 0px 15px;
   border-left: 0.25em solid #ccc;
-  color: #999;
+  color: #ffe6ff;
   line-height: 1.5;
 }
 
@@ -110,7 +110,7 @@ hr {
 }
 
 .masthead a:hover {
-  color:black;
+  color:white;
 }
 
 .masthead-title a {
@@ -120,7 +120,7 @@ hr {
 }
 
 .masthead-subtitle {
-  color: #999;
+  color: #ffe6ff;
 }
 
 /*
@@ -198,7 +198,7 @@ hr {
 }
 
 .pagination-button {
-  color: #999;
+  color: #ffe6ff;
   border: 1px solid #e0e0e0;
   padding: 15px 45px;
   display: inline-block;
@@ -219,13 +219,13 @@ hr {
 */
 
 .footer {
-  color: #999;
+  color: #ffe6ff;
   text-align: center;
   margin: 2rem;
 }
 
 .footer a {
-  color: #999;
+  color: #ffe6ff;
   padding: 10px;
   text-decoration: none;
 }
@@ -248,7 +248,7 @@ hr {
 }
 
 .menu-content a {
-  color: #999;
+  color: #ffe6ff;
   font-size: 1rem;
   padding-right: 10px;
 }
@@ -258,7 +258,7 @@ hr {
 }
 
 .social-icons a {
-  color: #999;
+  color: #ffe6ff;
   font-size: 1rem;
 }
 
